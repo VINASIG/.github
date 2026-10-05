@@ -10,6 +10,8 @@ Read [AGENTS.md](AGENTS.md) before editing. Review each project's public reposit
 
 The imported Agent Standards snapshot uses the core profile for documentation work. It introduces no application runtime or package dependencies. Its source and integrity digest are recorded in [.vinasig/manifest.json](.vinasig/manifest.json).
 
+Follow CORE-009 and the imported [project publication checklist](.vinasig/standards/templates/project-publication.md) when adding a tool or changing a listed project's name, availability, canonical domain, purpose or advertised features. Keep the English and Vietnamese profile versions aligned with the relevant project README, repository description/homepage and VINASIG website inventory. Preserve unrelated content and publish only within current authorization. Record any pending destination in the handoff.
+
 ## Rights
 
 VINASIG-authored documentation is available under CC BY-SA 4.0. Logo artwork follows the separate VINASIG Brand Usage Policy. Read [LICENSE](LICENSE) and [LICENSES.md](LICENSES.md) for the complete scopes and asset provenance.

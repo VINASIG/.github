@@ -12,10 +12,10 @@ Attribute reused documentation to VINASIG, link to this repository and the licen
 
 The files are unchanged copies from [VINASIG Brand Assets at a5a907839d63337827c2f350e53198a834482e38](https://github.com/VINASIG/vinasig-brand-assets/tree/a5a907839d63337827c2f350e53198a834482e38). Both retain their original 1080 by 280 dimensions and transparency.
 
-| Copied file | Original export in `01_Logos/Horizontal Lockup/Exports/` | SHA-256 |
-| --- | --- | --- |
+| Copied file                        | Original export in `01_Logos/Horizontal Lockup/Exports/`           | SHA-256                                                            |
+| ---------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | `profile/assets/vinasig-light.png` | `VINASIG Primary Horizontal Lockup - Primary Color - 1080x280.png` | `e6839ebb86247e9805cb78737c27dff216f29a88b62ed29be0b7cd86c43e3cad` |
-| `profile/assets/vinasig-dark.png` | `VINASIG Primary Horizontal Lockup - Reversed - 1080x280.png` | `2c7196e034929e10b22789d0966d712aeb1e2bc66121f0cedf642041f45fe2ae` |
+| `profile/assets/vinasig-dark.png`  | `VINASIG Primary Horizontal Lockup - Reversed - 1080x280.png`      | `2c7196e034929e10b22789d0966d712aeb1e2bc66121f0cedf642041f45fe2ae` |
 
 These notices do not assign third-party copyright or assert a registered trademark.
 
@@ -23,7 +23,7 @@ These notices do not assign third-party copyright or assert a registered tradema
 
 The copied `.vinasig/standards/` and `.agents/skills/` material retains the notices supplied by [VINASIG Agent Standards](https://github.com/VINASIG/agent-standards). Read [.vinasig/standards/LICENSES.md](.vinasig/standards/LICENSES.md) for its GPL-3.0-or-later and CC-BY-SA-4.0 scopes. The snapshot's own license does not relicense this profile or its artwork.
 
-The reviewed source is Agent Standards commit `9285e34f883cd414a16e50a79994da2a888efa3a`. The installed manifest records the bundle integrity digest and its managed paths.
+The initial import used Agent Standards commit `9285e34f883cd414a16e50a79994da2a888efa3a`. The organization profile synchronization update uses reviewed source commit [2027d64b7af235b23a8b4bfa4911c924ffb47d05](https://github.com/VINASIG/agent-standards/commit/2027d64b7af235b23a8b4bfa4911c924ffb47d05). The installed manifest records the current bundle integrity digest and its managed paths. Original material retains its existing license scope.
 
 ## Decision record
 
