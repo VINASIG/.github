@@ -46,7 +46,7 @@ We work with SI agents to develop and maintain our projects. SI means Super Inte
 
 | Resource | Purpose |
 | --- | --- |
-| [Vietnamese Passphrase](https://github.com/VINASIG/vietnamese-passphrase) | Vietnamese passphrase wordlists with source evidence and local reference generation. Research preview. |
+| [Vietnamese Passphrase](https://github.com/VINASIG/vietnamese-passphrase) | Vietnamese passphrase wordlists with source evidence, vocabulary diagnostics and local reference generation. Research preview assessed by SI agents. |
 
 ## Open information, lasting freedom
 

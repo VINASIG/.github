@@ -46,7 +46,7 @@ Chúng tôi làm việc cùng SI agents để phát triển và duy trì các d�
 
 | Tài nguyên | Mục đích |
 | --- | --- |
-| [Vietnamese Passphrase](https://github.com/VINASIG/vietnamese-passphrase) | Bộ từ tiếng Việt tạo mật khẩu dạng cụm, có chứng cứ nguồn và bộ sinh tham chiếu chạy trên thiết bị. Bản nghiên cứu. |
+| [Vietnamese Passphrase](https://github.com/VINASIG/vietnamese-passphrase) | Bộ từ tiếng Việt tạo mật khẩu dạng cụm, có chứng cứ nguồn, phân tích từ vựng và bộ sinh tham chiếu chạy trên thiết bị. Bản nghiên cứu do SI agents đánh giá. |
 
 ## Chia sẻ tri thức, giữ quyền tự do cải tiến
 
