@@ -37,6 +37,7 @@ We work with SI agents to develop and maintain our projects. SI means Super Inte
 
 | Resource | Purpose |
 | --- | --- |
+| [Vietnamese Passphrase](https://github.com/VINASIG/vietnamese-passphrase) | Vietnamese passphrase wordlists with source evidence and local reference generation. Research preview. |
 | [Agent Standards](https://github.com/VINASIG/agent-standards) | Shared workflows, writing rules and quality checks for SI agents. |
 | [Web Design System](https://github.com/VINASIG/web-design-system) | Interface principles, reusable patterns and working examples. |
 | [Brand Assets](https://github.com/VINASIG/vinasig-brand-assets) | Official artwork, logo variants and typography resources. |
