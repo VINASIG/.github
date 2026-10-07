@@ -18,7 +18,7 @@ VINASIG builds tools that help people get small, useful things done. We start wi
 | --- | --- | --- |
 | QR Generator | Create QR codes for links, text, Wi-Fi, email, contacts and more. Download your code without a redirect service. | [Use](https://qr.vinasig.io.vn/) · [Source](https://github.com/VINASIG/qr-generator) |
 | QR Scanner | Read QR codes from pasted images, files, image links or a camera. See the complete contents and available code details. | [Use](https://scan.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/qr-scanner) |
-| TOTP Generator | Generate time-based verification codes. Your secret key stays in the browser session. | [Use](https://totp.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/totp-generator) |
+| TOTP Generator | Generate time-based verification codes locally. Optional share links contain the key and settings. | [Use](https://totp.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/totp-generator) |
 | Password Generator | Generate passwords and English or Vietnamese passphrases locally, with an automatic countdown and offline files. Research preview. | [Use](https://password.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/password-generator) |
 | Metadata Cleaner | Remove optional JPEG, PNG, WebP and GIF metadata locally without re-encoding the image. Choose what to remove and see the exact bytes saved. | [Use](https://clean.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/metadata-cleaner) |
 | Metadata Reader | Inspect supported image, PDF, media and Office/ZIP metadata locally. Read C2PA origin claims, filter grouped fields and export JSON. | [Use](https://metadata.vinasig.io.vn/en/) · [Source](https://github.com/VINASIG/metadata-reader) |
